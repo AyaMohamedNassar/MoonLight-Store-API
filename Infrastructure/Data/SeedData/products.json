@@ -1,0 +1,82 @@
+[
+  {
+    "Name": "Nike Air Max 90",
+    "Description": "Classic and comfortable running shoes.",
+    "Price": 120.00,
+    "PictureUrl": "nike-air-max-90.jpg",
+    "CategoryId": 1,
+    "BrandId": 1
+  },
+  {
+    "Name": "Adidas Ultraboost",
+    "Description": "High-performance sneakers for runners.",
+    "Price": 180.00,
+    "PictureUrl": "adidas-ultraboost.jpg",
+    "CategoryId": 2,
+    "BrandId": 2
+  },
+  {
+    "Name": "H&M Casual T-Shirt",
+    "Description": "Comfortable and stylish casual wear.",
+    "Price": 15.99,
+    "PictureUrl": "hm-casual-tshirt.jpg",
+    "CategoryId": 3,
+    "BrandId": 3
+  },
+  {
+    "Name": "Zara Slim Fit Jeans",
+    "Description": "Trendy slim fit jeans for every occasion.",
+    "Price": 45.00,
+    "PictureUrl": "zara-slim-fit-jeans.jpg",
+    "CategoryId": 4,
+    "BrandId": 4
+  },
+  {
+    "Name": "Gucci Leather Jacket",
+    "Description": "Luxurious leather jacket with premium quality.",
+    "Price": 1200.00,
+    "PictureUrl": "gucci-leather-jacket.jpg",
+    "CategoryId": 5,
+    "BrandId": 5
+  },
+  {
+    "Name": "Levi's 501 Original Jeans",
+    "Description": "Iconic straight-leg jeans.",
+    "Price": 89.99,
+    "PictureUrl": "levis-501-jeans.jpg",
+    "CategoryId": 6,
+    "BrandId": 6
+  },
+  {
+    "Name": "Uniqlo Heattech Sweater",
+    "Description": "Lightweight yet warm sweater for cold days.",
+    "Price": 29.90,
+    "PictureUrl": "uniqlo-heattech-sweater.jpg",
+    "CategoryId": 7,
+    "BrandId": 7
+  },
+  {
+    "Name": "Puma Training Shorts",
+    "Description": "Breathable shorts designed for athletes.",
+    "Price": 25.00,
+    "PictureUrl": "puma-training-shorts.jpg",
+    "CategoryId": 8,
+    "BrandId": 8
+  },
+  {
+    "Name": "Calvin Klein Polo Shirt",
+    "Description": "Sophisticated and casual polo shirt.",
+    "Price": 50.00,
+    "PictureUrl": "calvin-klein-polo.jpg",
+    "CategoryId": 9,
+    "BrandId": 9
+  },
+  {
+    "Name": "Ralph Lauren Cotton Sweater",
+    "Description": "Premium cotton sweater for a polished look.",
+    "Price": 125.00,
+    "PictureUrl": "ralph-lauren-cotton-sweater.jpg",
+    "CategoryId": 1,
+    "BrandId": 10
+  }
+]

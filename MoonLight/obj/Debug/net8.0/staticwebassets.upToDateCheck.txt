@@ -1,0 +1,10 @@
+wwwroot\Images\Products\adidas-ultraboost.jpg
+wwwroot\Images\Products\calvin-klein-polo.jpg
+wwwroot\Images\Products\gucci-leather-jacket.jpg
+wwwroot\Images\Products\hm-casual-tshirt.jpg
+wwwroot\Images\Products\levis-501-jeans.jpg
+wwwroot\Images\Products\nike-air-max-90.jpg
+wwwroot\Images\Products\puma.jpg
+wwwroot\Images\Products\ralph-lauren-cotton-sweater.jpg
+wwwroot\Images\Products\uniqlo-heattech-sweater.jpg
+wwwroot\Images\Products\zara-slim-fit-jeans.jpg

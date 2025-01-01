@@ -1,0 +1,1052 @@
+{
+  "Version": 1,
+  "Hash": "M/tDoGTKFiqwE2xcRPC2esx3keXUywR3kCEOavphlfQ=",
+  "Source": "MoonLight.API",
+  "BasePath": "_content/MoonLight.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MoonLight.API\\wwwroot",
+      "Source": "MoonLight.API",
+      "ContentRoot": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\",
+      "BasePath": "_content/MoonLight.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\adidas-ultraboost.jpg",
+      "SourceId": "MoonLight.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\",
+      "BasePath": "_content/MoonLight.API",
+      "RelativePath": "Images/Products/adidas-ultraboost#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xt1o8yu0nu",
+      "Integrity": "uzD1yJ1oXX/cDAfP2bi8a0FAyehSSRWL2GU2TpQ44zo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\adidas-ultraboost.jpg"
+    },
+    {
+      "Identity": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\calvin-klein-polo.jpg",
+      "SourceId": "MoonLight.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\",
+      "BasePath": "_content/MoonLight.API",
+      "RelativePath": "Images/Products/calvin-klein-polo#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "oszd0lk5tn",
+      "Integrity": "eOqGtViSBjIHi8nT8lgQKhDOc+huteBEtZj6YeGgYTs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\calvin-klein-polo.jpg"
+    },
+    {
+      "Identity": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\gucci-leather-jacket.jpg",
+      "SourceId": "MoonLight.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\",
+      "BasePath": "_content/MoonLight.API",
+      "RelativePath": "Images/Products/gucci-leather-jacket#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "brgd3dbh5j",
+      "Integrity": "6UKm3fjVjizQ56s7W3SXeffwJ6GXXBZP2+rb+KmwJPk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\gucci-leather-jacket.jpg"
+    },
+    {
+      "Identity": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\hm-casual-tshirt.jpg",
+      "SourceId": "MoonLight.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\",
+      "BasePath": "_content/MoonLight.API",
+      "RelativePath": "Images/Products/hm-casual-tshirt#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z3iwi1t22t",
+      "Integrity": "r2nm0i/9PwUGiBgkrtLMbxlklrUweR0XRtg2yhEUdKw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\hm-casual-tshirt.jpg"
+    },
+    {
+      "Identity": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\levis-501-jeans.jpg",
+      "SourceId": "MoonLight.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\",
+      "BasePath": "_content/MoonLight.API",
+      "RelativePath": "Images/Products/levis-501-jeans#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "383u2hglnq",
+      "Integrity": "09FYExP8iO4EybrozaEV3G1mWymHrajLpa20+26MErM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\levis-501-jeans.jpg"
+    },
+    {
+      "Identity": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\nike-air-max-90.jpg",
+      "SourceId": "MoonLight.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\",
+      "BasePath": "_content/MoonLight.API",
+      "RelativePath": "Images/Products/nike-air-max-90#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fphkt3x2em",
+      "Integrity": "XbDGiMSzx07MybPH1KjJ96LoswmSgQWYuohwK+6kJUE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\nike-air-max-90.jpg"
+    },
+    {
+      "Identity": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\puma.jpg",
+      "SourceId": "MoonLight.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\",
+      "BasePath": "_content/MoonLight.API",
+      "RelativePath": "Images/Products/puma#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6ryjs8ms41",
+      "Integrity": "slJTVg1w93NE+N0hG1fT/95eX++mGThaKwS8rZu+xLc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\puma.jpg"
+    },
+    {
+      "Identity": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\ralph-lauren-cotton-sweater.jpg",
+      "SourceId": "MoonLight.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\",
+      "BasePath": "_content/MoonLight.API",
+      "RelativePath": "Images/Products/ralph-lauren-cotton-sweater#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2i057aw41p",
+      "Integrity": "Np9ezieVxReM7wu2YOcAhM8KaKEwdxx2UNbbiFjENso=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\ralph-lauren-cotton-sweater.jpg"
+    },
+    {
+      "Identity": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\uniqlo-heattech-sweater.jpg",
+      "SourceId": "MoonLight.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\",
+      "BasePath": "_content/MoonLight.API",
+      "RelativePath": "Images/Products/uniqlo-heattech-sweater#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "81mi10qz3b",
+      "Integrity": "DEHQsFhf8HVX9rnzHOVqjkpupILxFb+UGyzTa6s3rII=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\uniqlo-heattech-sweater.jpg"
+    },
+    {
+      "Identity": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\zara-slim-fit-jeans.jpg",
+      "SourceId": "MoonLight.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\",
+      "BasePath": "_content/MoonLight.API",
+      "RelativePath": "Images/Products/zara-slim-fit-jeans#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "eto5hs23l3",
+      "Integrity": "HnLkE4DlO/WWsFrsW6mdSAwsStxQDtYYjwtk4tb+n10=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Products\\zara-slim-fit-jeans.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "Images/Products/adidas-ultraboost.jpg",
+      "AssetFile": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\adidas-ultraboost.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5858786"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uzD1yJ1oXX/cDAfP2bi8a0FAyehSSRWL2GU2TpQ44zo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 19:22:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uzD1yJ1oXX/cDAfP2bi8a0FAyehSSRWL2GU2TpQ44zo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/adidas-ultraboost.xt1o8yu0nu.jpg",
+      "AssetFile": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\adidas-ultraboost.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5858786"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uzD1yJ1oXX/cDAfP2bi8a0FAyehSSRWL2GU2TpQ44zo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 19:22:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xt1o8yu0nu"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/adidas-ultraboost.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uzD1yJ1oXX/cDAfP2bi8a0FAyehSSRWL2GU2TpQ44zo="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/calvin-klein-polo.jpg",
+      "AssetFile": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\calvin-klein-polo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17682"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eOqGtViSBjIHi8nT8lgQKhDOc+huteBEtZj6YeGgYTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 19:10:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eOqGtViSBjIHi8nT8lgQKhDOc+huteBEtZj6YeGgYTs="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/calvin-klein-polo.oszd0lk5tn.jpg",
+      "AssetFile": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\calvin-klein-polo.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17682"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eOqGtViSBjIHi8nT8lgQKhDOc+huteBEtZj6YeGgYTs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 19:10:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "oszd0lk5tn"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/calvin-klein-polo.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eOqGtViSBjIHi8nT8lgQKhDOc+huteBEtZj6YeGgYTs="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/gucci-leather-jacket.brgd3dbh5j.jpg",
+      "AssetFile": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\gucci-leather-jacket.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6UKm3fjVjizQ56s7W3SXeffwJ6GXXBZP2+rb+KmwJPk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 19:08:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "brgd3dbh5j"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/gucci-leather-jacket.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6UKm3fjVjizQ56s7W3SXeffwJ6GXXBZP2+rb+KmwJPk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/gucci-leather-jacket.jpg",
+      "AssetFile": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\gucci-leather-jacket.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "33208"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6UKm3fjVjizQ56s7W3SXeffwJ6GXXBZP2+rb+KmwJPk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 19:08:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6UKm3fjVjizQ56s7W3SXeffwJ6GXXBZP2+rb+KmwJPk="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/hm-casual-tshirt.jpg",
+      "AssetFile": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\hm-casual-tshirt.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11602"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r2nm0i/9PwUGiBgkrtLMbxlklrUweR0XRtg2yhEUdKw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 19:05:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r2nm0i/9PwUGiBgkrtLMbxlklrUweR0XRtg2yhEUdKw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/hm-casual-tshirt.z3iwi1t22t.jpg",
+      "AssetFile": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\hm-casual-tshirt.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11602"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r2nm0i/9PwUGiBgkrtLMbxlklrUweR0XRtg2yhEUdKw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 19:05:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z3iwi1t22t"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/hm-casual-tshirt.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-r2nm0i/9PwUGiBgkrtLMbxlklrUweR0XRtg2yhEUdKw="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/levis-501-jeans.383u2hglnq.jpg",
+      "AssetFile": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\levis-501-jeans.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32863"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"09FYExP8iO4EybrozaEV3G1mWymHrajLpa20+26MErM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 19:09:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "383u2hglnq"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/levis-501-jeans.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-09FYExP8iO4EybrozaEV3G1mWymHrajLpa20+26MErM="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/levis-501-jeans.jpg",
+      "AssetFile": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\levis-501-jeans.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32863"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"09FYExP8iO4EybrozaEV3G1mWymHrajLpa20+26MErM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 19:09:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-09FYExP8iO4EybrozaEV3G1mWymHrajLpa20+26MErM="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/nike-air-max-90.fphkt3x2em.jpg",
+      "AssetFile": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\nike-air-max-90.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20687"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XbDGiMSzx07MybPH1KjJ96LoswmSgQWYuohwK+6kJUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 19:04:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fphkt3x2em"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/nike-air-max-90.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XbDGiMSzx07MybPH1KjJ96LoswmSgQWYuohwK+6kJUE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/nike-air-max-90.jpg",
+      "AssetFile": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\nike-air-max-90.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20687"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XbDGiMSzx07MybPH1KjJ96LoswmSgQWYuohwK+6kJUE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 19:04:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XbDGiMSzx07MybPH1KjJ96LoswmSgQWYuohwK+6kJUE="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/puma.6ryjs8ms41.jpg",
+      "AssetFile": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\puma.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"slJTVg1w93NE+N0hG1fT/95eX++mGThaKwS8rZu+xLc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 19:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6ryjs8ms41"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/puma.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-slJTVg1w93NE+N0hG1fT/95eX++mGThaKwS8rZu+xLc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/puma.jpg",
+      "AssetFile": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\puma.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39322"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"slJTVg1w93NE+N0hG1fT/95eX++mGThaKwS8rZu+xLc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 19:12:15 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-slJTVg1w93NE+N0hG1fT/95eX++mGThaKwS8rZu+xLc="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/ralph-lauren-cotton-sweater.2i057aw41p.jpg",
+      "AssetFile": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\ralph-lauren-cotton-sweater.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "900181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Np9ezieVxReM7wu2YOcAhM8KaKEwdxx2UNbbiFjENso=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 19:11:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2i057aw41p"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/ralph-lauren-cotton-sweater.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Np9ezieVxReM7wu2YOcAhM8KaKEwdxx2UNbbiFjENso="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/ralph-lauren-cotton-sweater.jpg",
+      "AssetFile": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\ralph-lauren-cotton-sweater.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "900181"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Np9ezieVxReM7wu2YOcAhM8KaKEwdxx2UNbbiFjENso=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 19:11:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Np9ezieVxReM7wu2YOcAhM8KaKEwdxx2UNbbiFjENso="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/uniqlo-heattech-sweater.81mi10qz3b.jpg",
+      "AssetFile": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\uniqlo-heattech-sweater.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52286"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DEHQsFhf8HVX9rnzHOVqjkpupILxFb+UGyzTa6s3rII=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 19:09:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "81mi10qz3b"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/uniqlo-heattech-sweater.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-DEHQsFhf8HVX9rnzHOVqjkpupILxFb+UGyzTa6s3rII="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/uniqlo-heattech-sweater.jpg",
+      "AssetFile": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\uniqlo-heattech-sweater.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52286"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"DEHQsFhf8HVX9rnzHOVqjkpupILxFb+UGyzTa6s3rII=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 19:09:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-DEHQsFhf8HVX9rnzHOVqjkpupILxFb+UGyzTa6s3rII="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/zara-slim-fit-jeans.eto5hs23l3.jpg",
+      "AssetFile": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\zara-slim-fit-jeans.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30082"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HnLkE4DlO/WWsFrsW6mdSAwsStxQDtYYjwtk4tb+n10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 19:07:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "eto5hs23l3"
+        },
+        {
+          "Name": "label",
+          "Value": "Images/Products/zara-slim-fit-jeans.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HnLkE4DlO/WWsFrsW6mdSAwsStxQDtYYjwtk4tb+n10="
+        }
+      ]
+    },
+    {
+      "Route": "Images/Products/zara-slim-fit-jeans.jpg",
+      "AssetFile": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\zara-slim-fit-jeans.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "30082"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HnLkE4DlO/WWsFrsW6mdSAwsStxQDtYYjwtk4tb+n10=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 24 Nov 2024 19:07:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HnLkE4DlO/WWsFrsW6mdSAwsStxQDtYYjwtk4tb+n10="
+        }
+      ]
+    }
+  ]
+}

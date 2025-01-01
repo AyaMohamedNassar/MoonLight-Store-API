@@ -1,0 +1,124 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/MoonLight.API/Images/Products/adidas-ultraboost.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\adidas-ultraboost.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uzD1yJ1oXX/cDAfP2bi8a0FAyehSSRWL2GU2TpQ44zo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5858786"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022uzD1yJ1oXX/cDAfP2bi8a0FAyehSSRWL2GU2TpQ44zo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 19:22:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MoonLight.API/Images/Products/adidas-ultraboost.xt1o8yu0nu.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\adidas-ultraboost.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xt1o8yu0nu"},{"Name":"integrity","Value":"sha256-uzD1yJ1oXX/cDAfP2bi8a0FAyehSSRWL2GU2TpQ44zo="},{"Name":"label","Value":"_content/MoonLight.API/Images/Products/adidas-ultraboost.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5858786"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022uzD1yJ1oXX/cDAfP2bi8a0FAyehSSRWL2GU2TpQ44zo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 19:22:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MoonLight.API/Images/Products/calvin-klein-polo.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\calvin-klein-polo.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eOqGtViSBjIHi8nT8lgQKhDOc\u002BhuteBEtZj6YeGgYTs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"17682"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022eOqGtViSBjIHi8nT8lgQKhDOc\u002BhuteBEtZj6YeGgYTs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 19:10:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MoonLight.API/Images/Products/calvin-klein-polo.oszd0lk5tn.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\calvin-klein-polo.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oszd0lk5tn"},{"Name":"integrity","Value":"sha256-eOqGtViSBjIHi8nT8lgQKhDOc\u002BhuteBEtZj6YeGgYTs="},{"Name":"label","Value":"_content/MoonLight.API/Images/Products/calvin-klein-polo.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"17682"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022eOqGtViSBjIHi8nT8lgQKhDOc\u002BhuteBEtZj6YeGgYTs=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 19:10:34 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MoonLight.API/Images/Products/gucci-leather-jacket.brgd3dbh5j.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\gucci-leather-jacket.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"brgd3dbh5j"},{"Name":"integrity","Value":"sha256-6UKm3fjVjizQ56s7W3SXeffwJ6GXXBZP2\u002Brb\u002BKmwJPk="},{"Name":"label","Value":"_content/MoonLight.API/Images/Products/gucci-leather-jacket.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"33208"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00226UKm3fjVjizQ56s7W3SXeffwJ6GXXBZP2\u002Brb\u002BKmwJPk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 19:08:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MoonLight.API/Images/Products/gucci-leather-jacket.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\gucci-leather-jacket.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6UKm3fjVjizQ56s7W3SXeffwJ6GXXBZP2\u002Brb\u002BKmwJPk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"33208"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00226UKm3fjVjizQ56s7W3SXeffwJ6GXXBZP2\u002Brb\u002BKmwJPk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 19:08:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MoonLight.API/Images/Products/hm-casual-tshirt.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\hm-casual-tshirt.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-r2nm0i/9PwUGiBgkrtLMbxlklrUweR0XRtg2yhEUdKw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11602"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022r2nm0i/9PwUGiBgkrtLMbxlklrUweR0XRtg2yhEUdKw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 19:05:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MoonLight.API/Images/Products/hm-casual-tshirt.z3iwi1t22t.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\hm-casual-tshirt.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"z3iwi1t22t"},{"Name":"integrity","Value":"sha256-r2nm0i/9PwUGiBgkrtLMbxlklrUweR0XRtg2yhEUdKw="},{"Name":"label","Value":"_content/MoonLight.API/Images/Products/hm-casual-tshirt.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11602"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022r2nm0i/9PwUGiBgkrtLMbxlklrUweR0XRtg2yhEUdKw=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 19:05:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MoonLight.API/Images/Products/levis-501-jeans.383u2hglnq.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\levis-501-jeans.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"383u2hglnq"},{"Name":"integrity","Value":"sha256-09FYExP8iO4EybrozaEV3G1mWymHrajLpa20\u002B26MErM="},{"Name":"label","Value":"_content/MoonLight.API/Images/Products/levis-501-jeans.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"32863"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002209FYExP8iO4EybrozaEV3G1mWymHrajLpa20\u002B26MErM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 19:09:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MoonLight.API/Images/Products/levis-501-jeans.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\levis-501-jeans.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-09FYExP8iO4EybrozaEV3G1mWymHrajLpa20\u002B26MErM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"32863"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u002209FYExP8iO4EybrozaEV3G1mWymHrajLpa20\u002B26MErM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 19:09:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MoonLight.API/Images/Products/nike-air-max-90.fphkt3x2em.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\nike-air-max-90.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fphkt3x2em"},{"Name":"integrity","Value":"sha256-XbDGiMSzx07MybPH1KjJ96LoswmSgQWYuohwK\u002B6kJUE="},{"Name":"label","Value":"_content/MoonLight.API/Images/Products/nike-air-max-90.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"20687"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022XbDGiMSzx07MybPH1KjJ96LoswmSgQWYuohwK\u002B6kJUE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 19:04:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MoonLight.API/Images/Products/nike-air-max-90.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\nike-air-max-90.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XbDGiMSzx07MybPH1KjJ96LoswmSgQWYuohwK\u002B6kJUE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"20687"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022XbDGiMSzx07MybPH1KjJ96LoswmSgQWYuohwK\u002B6kJUE=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 19:04:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MoonLight.API/Images/Products/puma.6ryjs8ms41.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\puma.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6ryjs8ms41"},{"Name":"integrity","Value":"sha256-slJTVg1w93NE\u002BN0hG1fT/95eX\u002B\u002BmGThaKwS8rZu\u002BxLc="},{"Name":"label","Value":"_content/MoonLight.API/Images/Products/puma.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"39322"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022slJTVg1w93NE\u002BN0hG1fT/95eX\u002B\u002BmGThaKwS8rZu\u002BxLc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 19:12:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MoonLight.API/Images/Products/puma.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\puma.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-slJTVg1w93NE\u002BN0hG1fT/95eX\u002B\u002BmGThaKwS8rZu\u002BxLc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"39322"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022slJTVg1w93NE\u002BN0hG1fT/95eX\u002B\u002BmGThaKwS8rZu\u002BxLc=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 19:12:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MoonLight.API/Images/Products/ralph-lauren-cotton-sweater.2i057aw41p.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\ralph-lauren-cotton-sweater.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2i057aw41p"},{"Name":"integrity","Value":"sha256-Np9ezieVxReM7wu2YOcAhM8KaKEwdxx2UNbbiFjENso="},{"Name":"label","Value":"_content/MoonLight.API/Images/Products/ralph-lauren-cotton-sweater.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"900181"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Np9ezieVxReM7wu2YOcAhM8KaKEwdxx2UNbbiFjENso=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 19:11:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MoonLight.API/Images/Products/ralph-lauren-cotton-sweater.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\ralph-lauren-cotton-sweater.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Np9ezieVxReM7wu2YOcAhM8KaKEwdxx2UNbbiFjENso="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"900181"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Np9ezieVxReM7wu2YOcAhM8KaKEwdxx2UNbbiFjENso=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 19:11:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MoonLight.API/Images/Products/uniqlo-heattech-sweater.81mi10qz3b.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\uniqlo-heattech-sweater.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"81mi10qz3b"},{"Name":"integrity","Value":"sha256-DEHQsFhf8HVX9rnzHOVqjkpupILxFb\u002BUGyzTa6s3rII="},{"Name":"label","Value":"_content/MoonLight.API/Images/Products/uniqlo-heattech-sweater.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"52286"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022DEHQsFhf8HVX9rnzHOVqjkpupILxFb\u002BUGyzTa6s3rII=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 19:09:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MoonLight.API/Images/Products/uniqlo-heattech-sweater.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\uniqlo-heattech-sweater.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DEHQsFhf8HVX9rnzHOVqjkpupILxFb\u002BUGyzTa6s3rII="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"52286"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022DEHQsFhf8HVX9rnzHOVqjkpupILxFb\u002BUGyzTa6s3rII=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 19:09:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MoonLight.API/Images/Products/zara-slim-fit-jeans.eto5hs23l3.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\zara-slim-fit-jeans.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"eto5hs23l3"},{"Name":"integrity","Value":"sha256-HnLkE4DlO/WWsFrsW6mdSAwsStxQDtYYjwtk4tb\u002Bn10="},{"Name":"label","Value":"_content/MoonLight.API/Images/Products/zara-slim-fit-jeans.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"30082"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HnLkE4DlO/WWsFrsW6mdSAwsStxQDtYYjwtk4tb\u002Bn10=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 19:07:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MoonLight.API/Images/Products/zara-slim-fit-jeans.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Images\Products\zara-slim-fit-jeans.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HnLkE4DlO/WWsFrsW6mdSAwsStxQDtYYjwtk4tb\u002Bn10="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"30082"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HnLkE4DlO/WWsFrsW6mdSAwsStxQDtYYjwtk4tb\u002Bn10=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 19:07:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

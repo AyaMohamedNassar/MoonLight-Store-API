@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\adidas-ultraboost.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\adidas-ultraboost.jpg"
+    },
+    {
+      "Id": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\calvin-klein-polo.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\calvin-klein-polo.jpg"
+    },
+    {
+      "Id": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\gucci-leather-jacket.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\gucci-leather-jacket.jpg"
+    },
+    {
+      "Id": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\hm-casual-tshirt.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\hm-casual-tshirt.jpg"
+    },
+    {
+      "Id": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\levis-501-jeans.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\levis-501-jeans.jpg"
+    },
+    {
+      "Id": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\nike-air-max-90.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\nike-air-max-90.jpg"
+    },
+    {
+      "Id": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\puma.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\puma.jpg"
+    },
+    {
+      "Id": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\ralph-lauren-cotton-sweater.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\ralph-lauren-cotton-sweater.jpg"
+    },
+    {
+      "Id": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\uniqlo-heattech-sweater.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\uniqlo-heattech-sweater.jpg"
+    },
+    {
+      "Id": "D:\\SelfStudy\\MoonLightAPI\\MoonLight\\wwwroot\\Images\\Products\\zara-slim-fit-jeans.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\zara-slim-fit-jeans.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MoonLight.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MoonLight.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MoonLight.API.props",
+      "PackagePath": "build\\MoonLight.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MoonLight.API.props",
+      "PackagePath": "buildMultiTargeting\\MoonLight.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MoonLight.API.props",
+      "PackagePath": "buildTransitive\\MoonLight.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,6 @@
+@MoonLight_HostAddress = http://localhost:5052
+
+GET {{MoonLight_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
