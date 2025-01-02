@@ -34,6 +34,7 @@ Welcome to the **Moonlight Store** API! This project is a robust and scalable e-
 - **Localization**
 - **Caching with Redis**
 - **Payment integration with Strip**
+- **Admin CRUD Operation**
 
 ---
 
