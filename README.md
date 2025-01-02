@@ -33,6 +33,7 @@ Welcome to the **Moonlight Store** API! This project is a robust and scalable e-
 - **Refresh Token**
 - **Localization**
 - **Caching with Redis**
+- **Payment integration with Strip**
 
 ---
 
