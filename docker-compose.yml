@@ -17,6 +17,16 @@ services:
       - 8081:8081
     depends_on:
       - redis
-    
+
+  seq:
+    image: datalust/seq:latest
+    environment:
+      - ACCEPT_EULA=Y
+    ports:
+      - 5341:5341  
+    volumes:
+      - seq-data:/data 
+
 volumes:
   redis-data:
+  seq-data:
