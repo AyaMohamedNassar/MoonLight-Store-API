@@ -50,8 +50,8 @@ Welcome to the **Moonlight Store** API! This project is a robust and scalable e-
 ## 📝 Get Started
 
 ### Prerequisites
-1. **Install .NET SDK 8.0+**: [Download Here](https://dotnet.microsoft.com/download)
-2. **Install Docker**: [Download Here](https://www.docker.com/)
+1. **Install .NET SDK 8.0+**
+2. **Install Docker**
 3. **SQL Server**: Ensure a running SQL Server instance.
 
 ### Installation Steps
